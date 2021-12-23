@@ -30,6 +30,7 @@ function multiply(a, b){
 }
 ```
 
-### languages
-Russian - native
+### Languages
+
+Russian - native  
 English - A2
