@@ -21,3 +21,15 @@ I have no experience with computer science at work, but I want to become part of
 * HTML
 * CSS 
 * Basic JavaScript
+
+### Code example
+
+```
+function multiply(a, b){
+  return a * b
+}
+```
+
+### languages
+Russian - native
+English - A2
